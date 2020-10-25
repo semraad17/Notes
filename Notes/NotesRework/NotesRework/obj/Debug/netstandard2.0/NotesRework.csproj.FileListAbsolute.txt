@@ -1,0 +1,15 @@
+C:\Users\Adam\Documents\Notes\NotesRework\NotesRework\NotesRework\NotesRework\bin\Debug\netstandard2.0\NotesRework.deps.json
+C:\Users\Adam\Documents\Notes\NotesRework\NotesRework\NotesRework\NotesRework\bin\Debug\netstandard2.0\NotesRework.dll
+C:\Users\Adam\Documents\Notes\NotesRework\NotesRework\NotesRework\NotesRework\bin\Debug\netstandard2.0\ref\NotesRework.dll
+C:\Users\Adam\Documents\Notes\NotesRework\NotesRework\NotesRework\NotesRework\bin\Debug\netstandard2.0\NotesRework.pdb
+C:\Users\Adam\Documents\Notes\NotesRework\NotesRework\NotesRework\NotesRework\obj\Debug\netstandard2.0\NotesRework.csprojAssemblyReference.cache
+C:\Users\Adam\Documents\Notes\NotesRework\NotesRework\NotesRework\NotesRework\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Adam\Documents\Notes\NotesRework\NotesRework\NotesRework\NotesRework\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Adam\Documents\Notes\NotesRework\NotesRework\NotesRework\NotesRework\obj\Debug\netstandard2.0\NotesRework.AssemblyInfoInputs.cache
+C:\Users\Adam\Documents\Notes\NotesRework\NotesRework\NotesRework\NotesRework\obj\Debug\netstandard2.0\NotesRework.AssemblyInfo.cs
+C:\Users\Adam\Documents\Notes\NotesRework\NotesRework\NotesRework\NotesRework\obj\Debug\netstandard2.0\NotesRework.dll
+C:\Users\Adam\Documents\Notes\NotesRework\NotesRework\NotesRework\NotesRework\obj\Debug\netstandard2.0\ref\NotesRework.dll
+C:\Users\Adam\Documents\Notes\NotesRework\NotesRework\NotesRework\NotesRework\obj\Debug\netstandard2.0\NotesRework.pdb
+C:\Users\Adam\Documents\Notes\NotesRework\NotesRework\NotesRework\NotesRework\obj\Debug\netstandard2.0\AddPage.xaml.g.cs
+C:\Users\Adam\Documents\Notes\NotesRework\NotesRework\NotesRework\NotesRework\obj\Debug\netstandard2.0\NotesRework.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Documents\Notes\NotesRework\NotesRework\NotesRework\NotesRework\obj\Debug\netstandard2.0\XamlC.stamp

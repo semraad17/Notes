@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NotesRework.AddPage"
+             Title="Přidat poznámku">
+
+    <ContentPage.Content>
+        <StackLayout Margin="20,35,20,20">
+            <Entry x:Name="nameEntry" Placeholder="Název"/>
+            <Entry x:Name="descriptionEntry" Placeholder="Popis"/>
+            <Button Text="  PŘIDAT POZNÁMKU  " FontAttributes="Bold" Clicked="OnSaveButtonClicked" HorizontalOptions="Center" BackgroundColor="#551db5" TextColor="#fff" Margin="20"/>
+            <!--<ListView x:Name="listView">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell Text="{Binding Name}" Detail="{Binding Description}" />
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>-->
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
