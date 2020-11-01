@@ -2170,11 +2170,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Adam\\Documents\\Notes\\NotesRework\\NotesRework\\NotesRework\\NotesRework.Android\\NotesRework.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Adam\\Documents\\Notes_Semrad\\Notes\\Notes\\NotesRework\\NotesRework.Android\\NotesRework.Android.csproj",
       "projectName": "NotesRework.Android",
-      "projectPath": "C:\\Users\\Adam\\Documents\\Notes\\NotesRework\\NotesRework\\NotesRework\\NotesRework.Android\\NotesRework.Android.csproj",
+      "projectPath": "C:\\Users\\Adam\\Documents\\Notes_Semrad\\Notes\\Notes\\NotesRework\\NotesRework.Android\\NotesRework.Android.csproj",
       "packagesPath": "C:\\Users\\Adam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Adam\\Documents\\Notes\\NotesRework\\NotesRework\\NotesRework\\NotesRework.Android\\obj\\",
+      "outputPath": "C:\\Users\\Adam\\Documents\\Notes_Semrad\\Notes\\Notes\\NotesRework\\NotesRework.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2195,8 +2195,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\Adam\\Documents\\Notes\\NotesRework\\NotesRework\\NotesRework\\NotesRework\\NotesRework.csproj": {
-              "projectPath": "C:\\Users\\Adam\\Documents\\Notes\\NotesRework\\NotesRework\\NotesRework\\NotesRework\\NotesRework.csproj"
+            "C:\\Users\\Adam\\Documents\\Notes_Semrad\\Notes\\Notes\\NotesRework\\NotesRework\\NotesRework.csproj": {
+              "projectPath": "C:\\Users\\Adam\\Documents\\Notes_Semrad\\Notes\\Notes\\NotesRework\\NotesRework\\NotesRework.csproj"
             }
           }
         }

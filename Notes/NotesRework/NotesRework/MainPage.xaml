@@ -9,29 +9,15 @@
         <ToolbarItem  Text="PŘIDAT" Clicked="AddNote"></ToolbarItem>
     </ContentPage.ToolbarItems>
 
-    <StackLayout Margin="20,35,20,20">
-        <Label x:Name="label" Text="ahoj"></Label>
-        <!--<ListView>
-            <ListView.ItemsSource>
-                <x:Array Type="{x:Type x:String}">
-                    <x:String>Baboon</x:String>
-                    <x:String>Capuchin Monkey</x:String>
-                    <x:String>Blue Monkey</x:String>
-                    <x:String>Squirrel Monkey</x:String>
-                    <x:String>Golden Lion Tamarin</x:String>
-                    <x:String>Howler Monkey</x:String>
-                    <x:String>Japanese Macaque</x:String>
-                </x:Array>
-            </ListView.ItemsSource>
-        </ListView>-->
-
-        <ListView x:Name="listView">
-            <ListView.ItemTemplate>
-                <DataTemplate>
-                    <TextCell Text="{Binding Name}" Detail="{Binding Description}"/>
-                </DataTemplate>
-            </ListView.ItemTemplate>
-        </ListView>
-
-    </StackLayout>
+    <ContentPage.Content>
+        <StackLayout Margin="20,35,20,20">
+            <ListView x:Name="listView">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell Text="{Binding Name}" Detail="{Binding Description}" />
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
 </ContentPage>

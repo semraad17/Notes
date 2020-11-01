@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iS6bmLBOoPTvRmLS3dxsuCnAsjQTv+94ym8vGEcz/TJADyqbkqx3HnYUuso5hcMCHfvgvEAO2KzzcXo3P9Hmjg==",
+  "dgSpecHash": "4D0YmFbRToqNx94ykf6LD/C8tSKXW7HXMkR7tlT5oA7w71fCB7kcJzchggtoEzpWZADuzjGvzjaQhR19UICYDA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Adam\\Documents\\Notes\\NotesRework\\NotesRework\\NotesRework\\NotesRework\\NotesRework.csproj",
+  "projectFilePath": "C:\\Users\\Adam\\Documents\\Notes_Semrad\\Notes\\Notes\\NotesRework\\NotesRework\\NotesRework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Adam\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Adam\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

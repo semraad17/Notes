@@ -23,16 +23,7 @@ namespace NotesRework
         protected override async void OnAppearing()
         {
             base.OnAppearing();
-
-            Random rnd = new Random();
-            int month  = rnd.Next(1, 13);
-            label.Text = month.ToString();
-
             var listView = new ListView();
-
-            Console.Write(App.Database.GetNotesAsync().GetType());
-
-
             listView.ItemsSource = await App.Database.GetNotesAsync();
         }
     }

@@ -934,11 +934,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Adam\\Documents\\Notes\\NotesRework\\NotesRework\\NotesRework\\NotesRework\\NotesRework.csproj",
+      "projectUniqueName": "C:\\Users\\Adam\\Documents\\Notes_Semrad\\Notes\\Notes\\NotesRework\\NotesRework\\NotesRework.csproj",
       "projectName": "NotesRework",
-      "projectPath": "C:\\Users\\Adam\\Documents\\Notes\\NotesRework\\NotesRework\\NotesRework\\NotesRework\\NotesRework.csproj",
+      "projectPath": "C:\\Users\\Adam\\Documents\\Notes_Semrad\\Notes\\Notes\\NotesRework\\NotesRework\\NotesRework.csproj",
       "packagesPath": "C:\\Users\\Adam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Adam\\Documents\\Notes\\NotesRework\\NotesRework\\NotesRework\\NotesRework\\obj\\",
+      "outputPath": "C:\\Users\\Adam\\Documents\\Notes_Semrad\\Notes\\Notes\\NotesRework\\NotesRework\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

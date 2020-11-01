@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+++GKDZ0m0QfNfHsA4EBkt01N2Q0N9Bbhd487dOVegquzsWW5GF15me3RdlwnL5rDTXn5JmQo8mAEH5srhGcXA==",
+  "dgSpecHash": "TIthicyDUFCb6NB6LUlqCLn5+oniAmGac7J+ro2RV9atCy4xXbWlj1RXmT3e5JuU6v5MYxL4HNcrTzrawetTrA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Adam\\Documents\\Notes\\NotesRework\\NotesRework\\NotesRework\\NotesRework.Android\\NotesRework.Android.csproj",
+  "projectFilePath": "C:\\Users\\Adam\\Documents\\Notes_Semrad\\Notes\\Notes\\NotesRework\\NotesRework.Android\\NotesRework.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Adam\\.nuget\\packages\\sqlite-net-pcl\\1.7.335\\sqlite-net-pcl.1.7.335.nupkg.sha512",
     "C:\\Users\\Adam\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.3\\sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",
